@@ -124,3 +124,15 @@ body {
   border-left: none;
   cursor: pointer;
 }
+
+.line {
+  fill: none;
+  stroke: lightblue;
+  stroke-width: 2px;
+}
+
+.dot {
+  fill: lightgreen;
+  stroke: lightblue;
+  stroke-width: 2px;
+}
