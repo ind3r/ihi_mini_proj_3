@@ -35,7 +35,7 @@ body {
 .main {
   grid-area: main;
   /* background-color: #2b4865; */
-  background-color: #bbbbbb;
+  background-color: #cccccc;
 }
 
 .main-header {
@@ -101,7 +101,7 @@ body {
   align-items: flex-start;
   width: 100%;
   /* background-color: #293543; */
-  background-color: #cccccc;
+  background-color: #dddddd;
   margin-bottom: 20px;
   -webkit-column-break-inside: avoid;
   padding: 24px;
@@ -150,12 +150,18 @@ body {
 div.tooltip {
   position: absolute;
   text-align: center;
-  width: 100px;
-  height: 30px;
+  width: 150px;
+  height: 40px;
   padding: 2px;
   font: 12px sans-serif;
-  background: lightsteelblue;
+  background: #aa9977;
   border: 0px;
   border-radius: 8px;
   pointer-events: none;
+}
+
+.normal_range_rect
+{
+   fill: lightsalmon;
+   opacity: 0.5;
 }
