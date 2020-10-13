@@ -1,7 +1,8 @@
 body {
   margin: 0;
   padding: 0;
-  color: #fff;
+  /* color: #fff; */
+  color: #242424;
   font-family: 'Open Sans', Helvetica, sans-serif;
   box-sizing: border-box;
 }
@@ -132,18 +133,18 @@ body {
 
 .line {
   fill: none;
-  stroke: lightblue;
+  stroke: goldenrod;
   stroke-width: 2px;
 }
 
 .dot {
-  fill: green;
-  stroke: lightblue;
+  fill: orange;
+  stroke: goldenrod;
   stroke-width: 3px;
 }
 
 .title_text {
-  font: 16px bold Arial, sans-serif;
+  font: 18px bold Arial, sans-serif;
 }
 
 div.tooltip {
