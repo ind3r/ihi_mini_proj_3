@@ -136,3 +136,7 @@ body {
   stroke: lightblue;
   stroke-width: 2px;
 }
+
+.title_text {
+  font: 16px bold Arial, sans-serif;
+}
