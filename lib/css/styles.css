@@ -150,7 +150,7 @@ body {
 div.tooltip {
   position: absolute;
   text-align: center;
-  width: 150px;
+  width: 120px;
   height: 40px;
   padding: 2px;
   font: 12px sans-serif;
@@ -162,6 +162,6 @@ div.tooltip {
 
 .normal_range_rect
 {
-   fill: lightsalmon;
+   fill: #efcccc;
    opacity: 0.7;
 }
